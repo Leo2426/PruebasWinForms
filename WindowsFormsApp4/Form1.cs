@@ -33,6 +33,7 @@ namespace WindowsFormsApp4
             dataGridView1.DataSource = tabla;
             conexion.Close();
 
+
         }
 
         private void button1_Click(object sender, EventArgs e)
